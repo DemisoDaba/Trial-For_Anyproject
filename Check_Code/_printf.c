@@ -5,7 +5,7 @@ void print_buffer(char buffer[], int *buff_ind);
 /**
  * _printf - Printf function
  * @format: format.
- * by Joseph and Ciny
+ * by Prince in the city
  * Return: Printed chars.
  */
 int _printf(const char *format, ...)
