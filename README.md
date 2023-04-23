@@ -3,7 +3,7 @@
 * Step-2: The created function will skip '%' and go for the other function format tp run.
 * Step-3: We added each and every prototype to *main.h* header.
 * Step-4: We tried to merge all function in *_printf*.
-* We are tried to handle the following conversion specifiers: "%c" "%s" "%" "%d" "i".
+* Step-5: We handled "%c" "%s" "%" "%d" "i" specifiers: .
 
 ## The pseudocode :pencil:
 
