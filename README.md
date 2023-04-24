@@ -1,7 +1,6 @@
 ## Description
 
-This repository contains a version of printf in c language, which maintains the main functions of this basic function. This project is requested by 
-[Alx-Africa School](https://www.alxafrica.com/)
+This repository contains a version of printf in C programming language, which maintains the main functions of  basic function. It is totally requested by [Alx-Africa School](https://www.alxafrica.com/) and done by [Demiso Daba of Ethiopia](https://github.com/DemisoDaba/) and [Nchopereu Nelson of Cameroon](https://github.com/impactnelson/)
 
 
 ## The order by which we are trying:
