@@ -25,6 +25,8 @@ This repository contains a version of printf in C programming language, which ma
 
 You must first write to your Terminal `./` Following the name of the file you want to run.
 
+That is a good point and it is well understood, Sir. Thanks a lot.
+
 ### For Example:
 ```
 ./Demo&Nchopereu
@@ -36,8 +38,8 @@ You must first write to your Terminal `./` Following the name of the file you wa
 ---|:---:|---
 *|[README.md](./README.md)| Readme file or description about the **folders** and __files__
 0|[print_putchar.c](./print_putchar.c)|I'm not going anywhere. You can print that wherever you want to.
-1|[prnt_1-digit.c](./prnt_1-digit.c)|Education is when you read the fine print. Experience is what you get if you don'
-2|[prnt_1-printf.c](./prnt_1-printf.c)|With a face like mine, I do better in print Handle the following custom conversion specifiers:
+1|[print_1-digit.c](./print_1-digit.c)|Education is when you read the fine print. Experience is what you get if you don'
+2|[print_1-printf.c](./print_1-printf.c)|With a face like mine, I do better in print Handle the following custom conversion specifiers:
 
 ##### © April 2023 **axl printf project - All rights reserved**
 
