@@ -1,3 +1,8 @@
+## Description
+
+This repository contains a version of printf in c language, which maintains the main functions of this basic function. This project is a project requested by [Holberton School](https://www.alxafrica.com/)
+
+
 ## The order by which we are trying:
 * Step-1: Started by creating a char function plus every format of the char function have a specic use.
 * Step-2: The created function will skip '%' and go for the other function format tp run.
