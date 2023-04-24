@@ -12,12 +12,28 @@
 ## Author :copyright:
 
 * **Demiso Daba** - [Github](https://github.com/DemisoDaba/)
-
-
-
 * **Nchopereu Nelson** - [Github](https://github.com/impactnelson/)
 
 In addition. these are the various prompts from the Intranet tasks.
+
+## How to execute the files?
+
+You must first write to your Terminal `./` Following the name of the file you want to run.
+
+### Example:
+```
+./Demo&Nchopereu
+```
+
+### :file_folder:- Directories
+
+#|Directory|Description
+---|:---:|---
+*|[README.md](./README.md)| Readme file or description about the **folders** and __files__
+
+
+
+
 
 0. I'm not going anywhere. You can print that wherever you want to. I'm here and I'm
  a Spur for life
