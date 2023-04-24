@@ -30,13 +30,12 @@ You must first write to your Terminal `./` Following the name of the file you wa
 #|Directory|Description
 ---|:---:|---
 *|[README.md](./README.md)| Readme file or description about the **folders** and __files__
+0|[print_putchar.c](./print_putchar.c)|I'm not going anywhere. You can print that wherever you want to.
 
 
 
 
 
-0. I'm not going anywhere. You can print that wherever you want to. I'm here and I'm
- a Spur for life
 Write a function that produces output according to a format.
 
 
