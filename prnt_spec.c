@@ -139,3 +139,9 @@ char *get_width(char *s, params_t *params, va_list ap)
 	return (s);
 }
 
+/**
+  * this code prints, the specifier
+  * prints function
+  * pointers
+  * get_width - string
+  */
