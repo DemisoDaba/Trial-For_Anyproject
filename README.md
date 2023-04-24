@@ -31,17 +31,7 @@ You must first write to your Terminal `./` Following the name of the file you wa
 ---|:---:|---
 *|[README.md](./README.md)| Readme file or description about the **folders** and __files__
 0|[print_putchar.c](./print_putchar.c)|I'm not going anywhere. You can print that wherever you want to.
-
-
-
-
-
-Write a function that produces output according to a format.
-
-
-1. Education is when you read the fine print. Experience is what you get if you don'
-t
-Handle the following conversion specifiers:
+1|[prnt_1-digit.c](./prnt_1-digit.c)|Education is when you read the fine print. Experience is what you get if you don'
 
 2. With a face like mine, I do better in print
 Handle the following custom conversion specifiers:
