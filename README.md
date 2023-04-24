@@ -34,5 +34,5 @@ You must first write to your Terminal `./` Following the name of the file you wa
 1|[prnt_1-digit.c](./prnt_1-digit.c)|Education is when you read the fine print. Experience is what you get if you don'
 2|[prnt_1-printf.c](./prnt_1-printf.c)|With a face like mine, I do better in print Handle the following custom conversion specifiers:
 
-All the above options work well together.
+##### © April 2023 **axl printf project - All rights reserved**
 
