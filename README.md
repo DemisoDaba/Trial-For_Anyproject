@@ -14,7 +14,7 @@
 * **Demiso Daba** - [Github](https://github.com/DemisoDaba/)
 * **Nchopereu Nelson** - [Github](https://github.com/impactnelson/)
 
-In addition. these are the various prompts from the Intranet tasks.
+**In addition. these are the various prompts from the Intranet tasks**
 
 ## How to execute the files?
 
