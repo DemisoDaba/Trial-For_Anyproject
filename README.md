@@ -27,7 +27,7 @@ You must first write to your Terminal `./` Following the name of the file you wa
 
 ### :file_folder:- Directories
 
-#|Directory|Description
+#|Directory|Task Description from the project
 ---|:---:|---
 *|[README.md](./README.md)| Readme file or description about the **folders** and __files__
 0|[print_putchar.c](./print_putchar.c)|I'm not going anywhere. You can print that wherever you want to.
