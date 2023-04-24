@@ -25,7 +25,7 @@ This repository contains a version of printf in C programming language, which ma
 
 You must first write to your Terminal `./` Following the name of the file you want to run.
 
-### Example:
+### For Example:
 ```
 ./Demo&Nchopereu
 ```
