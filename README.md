@@ -15,7 +15,7 @@
 
 
 
-* **Nchopereu Nelson - Github >>> " https://github.com/impactnelson/"
+* **Nchopereu Nelson** - [Github](https://github.com/impactnelson/)
 
 In addition. these are the various prompts from the Intranet tasks.
 
